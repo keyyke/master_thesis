@@ -3,12 +3,7 @@ bin/
 
 # from Stefan
 data/
-notebooks/
-notebooks_final_presentation/
-pickle_objects/
-src/
 tables/
-wireshark_profile/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
