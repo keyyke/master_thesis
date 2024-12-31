@@ -1,0 +1,15 @@
+Label,precision,recall,f1-score,support
+FindMy Tracker (lost),0.983,1.0,0.991,6010.0
+FindMy Tracker (nearby),1.0,0.983,0.991,6009.0
+FindMy Tracker (unpaired),1.0,1.0,1.0,6009.0
+SmartTag (lost),1.0,1.0,1.0,6010.0
+SmartTag (nearby),1.0,0.991,0.995,6009.0
+Tile (lost),1.0,1.0,1.0,6010.0
+iDevice,1.0,1.0,1.0,6010.0
+iDevice FindMy offline,1.0,1.0,1.0,6010.0
+iDevice FindMy online,1.0,1.0,1.0,6009.0
+other Device,0.99,1.0,0.995,6009.0
+,,,,
+accuracy,0.997,0.997,0.997,0.997
+macro avg,0.997,0.997,0.997,60095.0
+weighted avg,0.997,0.997,0.997,60095.0
