@@ -50,8 +50,7 @@ Refer to the README in Stefan's repository for explanations of each program. Thi
 - **InferenceWithSyntheticData.ipynb**: Applying a model with synthetic data to real data.
 - **Modeling.ipynb**: Building a model without synthetic data.
 - **ModelingWithSyntheticData.ipynb**: Building a model with synthetic data.
-- **SyntheticDataGeneration.ipynb**: 
-Synthetic data generation. Stefan created synthetic data by duplicating a subset of real data that was misclassified as SmartTag (nearby).
+- **SyntheticDataGeneration.ipynb**: Synthetic data generation. Stefan created synthetic data by duplicating a subset of real data that was misclassified as SmartTag (nearby).
 
 NOTE: The data is too huge to upload to the GitHub. You can find the data on Kaggle. https://www.kaggle.com/datasets/stefansaxer/ble-packets-from-tracking-devices
 
