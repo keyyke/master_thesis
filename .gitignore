@@ -3,3 +3,6 @@ bin/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+
+~$*.pptx
