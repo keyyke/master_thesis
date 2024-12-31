@@ -53,5 +53,7 @@ Refer to the README in Stefan's repository for explanations of each program. Thi
 - **SyntheticDataGeneration.ipynb**: 
 Synthetic data generation. Stefan created synthetic data by duplicating a subset of real data that was misclassified as SmartTag (nearby).
 
+NOTE: The data is too huge to upload to the GitHub. You can find the data on Kaggle. https://www.kaggle.com/datasets/stefansaxer/ble-packets-from-tracking-devices
+
 ### Order of Execution
 Modeling -> Inference -> SyntheticDataGeneration -> ModelingWithSyntheticData -> InferenceWithSyntheticData
