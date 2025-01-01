@@ -4,7 +4,8 @@ bin/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-
 ~$*.pptx
 
-*data/
+
+!*data/
+*/data/*
