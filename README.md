@@ -5,6 +5,8 @@ This research expanded the S. R. Saxer, “Dataset generation and feature extrac
 
 The GitHub repositly of Stefan is https://github.com/stsaxe/Bachelor-Thesis-Stefan-Richard-Saxer.
 
+**NOTE: This program was run in Python version 3.12.**
+
 ## data_for_markov_model
 The data used for synthetic data generation with the Markov model and the synthetic data created.
 - **processed_SmartTag_(nearby).csv**: The data used as the basis for the synthetic data. This data has been preprocessed. The raw data is "./stefan/data/csv/SmartTag/SmartTag_(nearby).csv"
